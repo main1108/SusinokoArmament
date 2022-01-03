@@ -5,4 +5,4 @@ Avaiable Weapon:
 Kadomatu Rocket Pod
 
 # How To Install
-Put SusinokoArmaments File To GameData Folder.
+Put SusinokoArmaments File To The GameData Folder.
